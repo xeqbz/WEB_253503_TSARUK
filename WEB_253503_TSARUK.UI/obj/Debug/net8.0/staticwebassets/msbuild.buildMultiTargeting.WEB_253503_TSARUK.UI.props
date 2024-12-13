@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEB_253503_TSARUK.UI.props" />
+</Project>

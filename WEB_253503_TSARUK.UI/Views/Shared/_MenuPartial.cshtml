@@ -1,0 +1,27 @@
+﻿@{
+    var controller = ViewContext.RouteData.Values["controller"]?.ToString()?.ToLower() ?? string.Empty;
+    var action = ViewContext.RouteData.Values["action"]?.ToString()?.ToLower() ?? string.Empty;
+}
+
+<a class="navbar-brand" asp-controller="Home" asp-action="Index">15350141</a>
+
+
+<div class="navbar-nav">
+    <a class="nav-item nav-link @(controller == "home" && action == "index" ? "active" : "")"
+       asp-controller="Home"
+       asp-action="Index"
+       style="margin-right: 20px;">
+        Лб 1
+    </a>
+    <a class="nav-item nav-link @(controller == "jewelry" && action == "index" ? "active" : "")"
+       asp-controller="Jewelry"
+       asp-action="Index"
+       style="margin-right: 20px;">
+        Каталог
+    </a>
+    <a class="nav-item nav-link @(controller == "admin" ? "active" : "")" asp-area="Admin"
+       asp-page="/Index">
+        Администрирование
+    </a>
+</div>
+

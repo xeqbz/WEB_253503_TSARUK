@@ -1,0 +1,10 @@
+2024-12-02 00:08:05.599 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 00:08:56.754 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 00:09:41.953 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 00:09:59.233 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 20:19:44.404 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 20:20:27.395 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 20:26:07.215 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 20:39:40.529 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 20:40:18.655 +03:00 [ERR] An unhandled exception has occurred while executing the request.
+2024-12-02 20:54:15.628 +03:00 [ERR] An unhandled exception has occurred while executing the request.

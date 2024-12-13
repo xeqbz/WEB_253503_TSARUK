@@ -1,0 +1,21 @@
+﻿@using WEB_253503_TSARUK.Domain.Entities
+
+<h3>JewelryDetails</h3>
+
+@if (SelectedJewelry != null)
+{
+	<div>
+		<p>Название: @SelectedJewelry.Name</p>
+		<p>Описание: @SelectedJewelry.Description</p>
+		<p>Цена: @SelectedJewelry.Price</p>
+		<p>Категория: @SelectedJewelry.Category?.Name</p>
+	</div>
+}
+else
+{
+	<p>Выберите блюдо для подробной информации.</p>
+}
+
+@code {
+	[Parameter] public WEB_253503_TSARUK.Domain.Entities.Jewelry? SelectedJewelry { get; set;  }
+}

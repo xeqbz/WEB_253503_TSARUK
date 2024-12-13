@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SPPR\\WEB_253503_TSARUK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|solutionrelative:web_253503_tsaruk.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|solutionrelative:web_253503_tsaruk.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|solutionrelative:web_253503_tsaruk.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|solutionrelative:web_253503_tsaruk.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\pages\\jewelrylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\pages\\jewelrylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\pages\\jewelry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\pages\\jewelry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\pages\\categoryselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\pages\\categoryselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|solutionrelative:web_253503_tsaruk.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|solutionrelative:web_253503_tsaruk.ui\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\wwwroot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\wwwroot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|solutionrelative:web_253503_tsaruk.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.ui\\services\\jewelryservice\\apijewelryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|solutionrelative:web_253503_tsaruk.ui\\services\\jewelryservice\\apijewelryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.ui\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9CD8EFC-C582-453F-834C-11F9580DA80F}|WEB_253503_TSARUK.UI\\WEB_253503_TSARUK.UI.csproj|solutionrelative:web_253503_tsaruk.ui\\services\\categoryservice\\apicategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|solutionrelative:web_253503_tsaruk.api\\services\\categoryservice\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|solutionrelative:web_253503_tsaruk.api\\services\\categoryservice\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CEC6950-95B7-4F26-A705-5C959478087A}|WEB_253503_TSARUK.API\\WEB_253503_TSARUK.API.csproj|solutionrelative:web_253503_tsaruk.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\pages\\jewelrydetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\pages\\jewelrydetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|d:\\sppr\\web_253503_tsaruk\\web_253503_tsaruk.blazorwasm\\pages\\pager.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB8DA1DD-F1D8-4E87-91C4-AB4CAFB8FFD2}|WEB_253503_TSARUK.BlazorWasm\\WEB_253503_TSARUK.BlazorWasm.csproj|solutionrelative:web_253503_tsaruk.blazorwasm\\pages\\pager.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{01321f1c-6c9e-3b5b-9c0f-66d2a373c254}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.API\\appsettings.json",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\appsettings.json",
+              "RelativeToolTip": "WEB_253503_TSARUK.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:13:25.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiCategoryService.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.UI\\Services\\CategoryService\\ApiCategoryService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:10:31.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategorySelector.razor",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\CategorySelector.razor",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\Pages\\CategorySelector.razor",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\CategorySelector.razor",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\Pages\\CategorySelector.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:21:52.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jewelry.razor",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\Jewelry.razor",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\Pages\\Jewelry.razor",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\Jewelry.razor",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\Pages\\Jewelry.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T14:32:12.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JewelryList.razor",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryList.razor",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryList.razor",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryList.razor",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryList.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:15:25.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.API\\Program.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Program.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.API\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:28:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.API\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.API\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:10:05.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.API\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.API\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:10:03.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\Services\\DataService.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Services\\DataService.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\Services\\DataService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwFQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:11:29.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.UI\\appsettings.json",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\appsettings.json",
+              "RelativeToolTip": "WEB_253503_TSARUK.UI\\appsettings.json",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T17:25:22.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.UI\\appsettings.Development.json",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\appsettings.Development.json",
+              "RelativeToolTip": "WEB_253503_TSARUK.UI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T17:25:39.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:32:14.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\wwwroot\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\wwwroot\\appsettings.Development.json",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\wwwroot\\appsettings.Development.json",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\wwwroot\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T17:30:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.API\\Services\\CategoryService\\ICategoryService.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Services\\CategoryService\\ICategoryService.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.API\\Services\\CategoryService\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:09:47.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.API\\Services\\CategoryService\\CategoryService.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Services\\CategoryService\\CategoryService.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.API\\Services\\CategoryService\\CategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:09:36.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiJewelryService.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\Services\\JewelryService\\ApiJewelryService.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.UI\\Services\\JewelryService\\ApiJewelryService.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.UI\\Services\\JewelryService\\ApiJewelryService.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.UI\\Services\\JewelryService\\ApiJewelryService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwCkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:11:02.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:09:25.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pager.razor",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\Pager.razor",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\Pages\\Pager.razor",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\Pager.razor",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\Pages\\Pager.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:40:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JewelryDetails.razor",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryDetails.razor",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryDetails.razor",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryDetails.razor",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\Pages\\JewelryDetails.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T16:34:11.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\wwwroot\\index.html",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\wwwroot\\index.html",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\wwwroot\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-02T16:49:21.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Program.cs",
+              "RelativeDocumentMoniker": "WEB_253503_TSARUK.BlazorWasm\\Program.cs",
+              "ToolTip": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.BlazorWasm\\Program.cs",
+              "RelativeToolTip": "WEB_253503_TSARUK.BlazorWasm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:56:51.489Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

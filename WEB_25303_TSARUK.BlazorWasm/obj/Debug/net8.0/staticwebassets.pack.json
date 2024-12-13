@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\obj\\Debug\\net8.0\\compressed\\cdws2bojn4.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WEB_253503_TSARUK.BlazorWasm.styles.css",
+      "PackagePath": "staticwebassets\\WEB_253503_TSARUK.BlazorWasm.styles.css"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_25303_TSARUK.BlazorWasm\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB_253503_TSARUK.BlazorWasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WEB_253503_TSARUK.BlazorWasm.props",
+      "PackagePath": "build\\WEB_253503_TSARUK.BlazorWasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WEB_253503_TSARUK.BlazorWasm.props",
+      "PackagePath": "buildMultiTargeting\\WEB_253503_TSARUK.BlazorWasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WEB_253503_TSARUK.BlazorWasm.props",
+      "PackagePath": "buildTransitive\\WEB_253503_TSARUK.BlazorWasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

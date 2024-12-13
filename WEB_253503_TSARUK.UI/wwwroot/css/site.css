@@ -1,0 +1,23 @@
+header, footer {
+    background-color: rgba(var(--bs-dark-rgb));
+}
+
+.nav-color {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.table-cell{
+    max-width: 300px;
+
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+}
+
+nav {
+    height: 50px;
+}
+
+

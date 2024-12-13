@@ -1,0 +1,36 @@
+﻿@using WEB_253503_TSARUK.Domain.Entities
+@inject IDataService DataService
+
+@if (DataService.TotalPages > 1)
+{
+    <div class="pagination">
+        <button class="btn btn-link" @onclick="() => GoToPage(1)" disabled="@((DataService.CurrentPage == 1) ? true : false)">
+            <span>&laquo;</span> First
+        </button>
+        <button class="btn btn-link" @onclick="() => GoToPage(DataService.CurrentPage - 1)" disabled="@((DataService.CurrentPage == 1) ? true : false)">
+            <span>&lt;</span> Prev
+        </button>
+        @for (int i = 1; i <= DataService.TotalPages; i++)
+        {
+            <button class="btn btn-link @((i == DataService.CurrentPage) ? "active" : "")"
+                    @onclick="() => GoToPage(i)">
+                @i
+            </button>
+        }
+        <button class="btn btn-link" @onclick="() => GoToPage(DataService.CurrentPage + 1)" disabled="@((DataService.CurrentPage == DataService.TotalPages) ? true : false)">
+            Next <span>&gt;</span>
+        </button>
+        <button class="btn btn-link" @onclick="() => GoToPage(DataService.TotalPages)" disabled="@((DataService.CurrentPage == DataService.TotalPages) ? true : false)">
+            Last <span>&raquo;</span>
+        </button>
+    </div>
+}
+
+@code {
+    private async Task GoToPage(int pageNumber)
+    {
+        if (pageNumber < 1 || pageNumber > DataService.TotalPages)
+            return;
+        await DataService.GetProductListAsync(pageNumber);
+    }
+}

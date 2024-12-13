@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\1vk1fmvu.jpg",
+      "PackagePath": "staticwebassets\\images\\1vk1fmvu.jpg"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\default-profile-picture.png",
+      "PackagePath": "staticwebassets\\images\\default-profile-picture.png"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\heart-ear.jpg",
+      "PackagePath": "staticwebassets\\images\\heart-ear.jpg"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\heart-ring.jpg",
+      "PackagePath": "staticwebassets\\images\\heart-ring.jpg"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\no-image.jpg",
+      "PackagePath": "staticwebassets\\images\\no-image.jpg"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\sparkling-ear.jpg",
+      "PackagePath": "staticwebassets\\images\\sparkling-ear.jpg"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\sparkling-ring.jpg",
+      "PackagePath": "staticwebassets\\images\\sparkling-ring.jpg"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\star-braclet.jpg",
+      "PackagePath": "staticwebassets\\images\\star-braclet.jpg"
+    },
+    {
+      "Id": "D:\\SPPR\\WEB_253503_TSARUK\\WEB_253503_TSARUK.API\\wwwroot\\images\\tennis-braclet.jpg",
+      "PackagePath": "staticwebassets\\images\\tennis-braclet.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WEB_253503_TSARUK.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WEB_253503_TSARUK.API.props",
+      "PackagePath": "build\\WEB_253503_TSARUK.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WEB_253503_TSARUK.API.props",
+      "PackagePath": "buildMultiTargeting\\WEB_253503_TSARUK.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WEB_253503_TSARUK.API.props",
+      "PackagePath": "buildTransitive\\WEB_253503_TSARUK.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

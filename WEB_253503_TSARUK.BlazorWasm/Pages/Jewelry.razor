@@ -1,0 +1,22 @@
+﻿@page "/jewelries"
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
+
+<h3>Jewelry</h3>
+<CascadingValue Value="DataService">
+<CategorySelector />
+<JewelryList />
+<Pager />
+</CascadingValue>
+@code {
+	[Inject] public IDataService DataService { get; set; }
+
+	protected override async Task OnInitializedAsync()
+	{
+		if (!DataService.Categories.Any())
+		{
+			await DataService.GetCategoryListAsync();
+			StateHasChanged(); 
+		}
+	}
+}

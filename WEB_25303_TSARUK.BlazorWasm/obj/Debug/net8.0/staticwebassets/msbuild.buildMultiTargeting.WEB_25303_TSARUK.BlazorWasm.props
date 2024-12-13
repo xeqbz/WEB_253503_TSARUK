@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WEB_25303_TSARUK.BlazorWasm.props" />
+</Project>

@@ -1,0 +1,75 @@
+﻿@page
+@model WEB_253503_TSARUK.UI.Areas.Admin.Pages.IndexModel
+@using WEB_253503_TSARUK.UI
+@using WEB_253503_TSARUK.UI.Models
+@using WEB_253503_TSARUK.Domain.Entities
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-success">
+        <i class="bi bi-plus-lg"> </i>Create New
+    </a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Jewelry[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Jewelry[0].Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Jewelry[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Jewelry[0].Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Jewelry[0].Image)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Jewelry) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td class="table-cell">
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                <img src="@Html.DisplayFor(modelItem => item.Image)" alt="@item.Name" style="max-width:100px; max-height:100px;" />
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">
+                    <i class="bi bi-pencil-square"> </i>Edit
+                </a> 
+                <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">
+                        <i class="bi bi-info-lg"> </i>Details
+                </a> 
+                <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">
+                    <i class="bi bi-trash"> </i>Delete
+                </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+

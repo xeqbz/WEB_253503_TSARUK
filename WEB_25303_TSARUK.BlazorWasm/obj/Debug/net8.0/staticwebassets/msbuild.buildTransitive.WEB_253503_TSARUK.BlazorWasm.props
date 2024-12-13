@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WEB_253503_TSARUK.BlazorWasm.props" />
+</Project>

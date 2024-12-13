@@ -1,0 +1,49 @@
+﻿@using WEB_253503_TSARUK.Domain.Entities
+
+
+<div>
+    @if (DataService.Categories == null || DataService.Categories.Count == 0)
+    {
+        <p>Категории не загружены или пусты</p>
+    }
+    else
+    {
+        <p>Загружено категорий: @DataService.Categories.Count</p>
+    }
+</div>
+
+<div class="dropdown">
+    <button class="btn btn-secondary dropdown-toggle" type="button" id="categoryDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+        @((SelectedCategory != null) ? SelectedCategory.Name : "Выберите категорию")
+    </button>
+    <ul class="dropdown-menu" aria-labelledby="categoryDropdown">
+        @foreach (var category in DataService.Categories)
+        {
+            <li>
+                <a class="dropdown-item" @onclick="() => SelectCategory(category)">
+                    @category.Name
+                </a>
+            </li>
+        }
+    </ul>
+</div>
+
+@code {
+    [CascadingParameter]
+    public IDataService DataService { get; set; }
+    private Category? SelectedCategory;
+
+    private async Task SelectCategory(Category category)
+    {
+        DataService.SelectedCategory = category;
+        DataService.CurrentPage = 1;
+        await DataService.GetProductListAsync();
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        DataService.SelectedCategory = null;
+        await DataService.GetCategoryListAsync();
+        await DataService.GetProductListAsync();
+    }
+}

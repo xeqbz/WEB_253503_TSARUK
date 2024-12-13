@@ -1,0 +1,51 @@
+﻿@using WEB_253503_TSARUK.Domain.Entities
+
+<h3>Jewelries</h3>
+
+<AuthorizeView>
+	<Authorized>
+		@if (DataService.Jewelries == null || DataService.Jewelries.Count == 0)
+		{
+			<p>No jewelries available.</p>
+		}
+		else
+		{
+			<ul>
+				@foreach (var jewelry in DataService.Jewelries)
+				{
+					<li>
+						@jewelry.Name (@jewelry.Category?.Name)
+						<button onclick="() => JewelrySelected(jewelry.Id)">Подробнее</button>
+					</li>
+				}
+			</ul>
+		}
+
+		@if (!string.IsNullOrEmpty(DataService.ErrorMessage))
+		{
+			<p class="text-danger">@DataService.ErrorMessage</p>
+		}
+	</Authorized>
+	<NotAuthorized>
+		<p class="text-warning">You are not authorized to view this page. Please log in.</p>
+	</NotAuthorized>
+</AuthorizeView>
+
+<JewelryDetails SelectedJewelry="SelectedJewelry" />
+
+@code {
+	[CascadingParameter]
+	public IDataService DataService { get; set; }
+	WEB_253503_TSARUK.Domain.Entities.Jewelry? SelectedJewelry { get; set; }
+
+	protected override async Task OnInitializedAsync()
+	{
+		await DataService.GetAllProductsAsync();
+		DataService.DataLoaded += StateHasChanged;
+	}
+
+	private void JewelrySelected(int id)
+	{
+		SelectedJewelry = DataService.Jewelries.FirstOrDefault(j => j.Id == id);
+	}
+}

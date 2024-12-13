@@ -1,0 +1,50 @@
+﻿@model WEB_253503_TSARUK.Domain.Models.ListModel<WEB_253503_TSARUK.Domain.Entities.Jewelry>
+@using WEB_253503_TSARUK.UI
+@using WEB_253503_TSARUK.UI.Models
+@using WEB_253503_TSARUK.Domain.Entities
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Jewelry";
+    var categories = ViewData["Categories"] as List<WEB_253503_TSARUK.Domain.Entities.Category> ?? new List<WEB_253503_TSARUK.Domain.Entities.Category>();
+    var request = ViewContext.HttpContext.Request;
+    var returnUrl = request.Path + request.QueryString.ToUriComponent();
+    string? category = request.Query["category"].ToString();
+    int currentPage = ViewBag.CurrentPage ?? 1;
+    int totalPages = ViewBag.TotalPages ?? 1;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+<h1>@ViewData["Title"]</h1>
+
+<!-- выбор категории -->
+<div class="col-2 border-2">
+    <ul class="nav ">
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                @ViewBag.CurrentCategory
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a class="dropdown-item" asp-controller="Jewelry" asp-route-category=@null asp-route-pageNo="1">Все</a>
+                </li>
+                @foreach (var item in categories)
+                {
+                    <li>
+                        <a class="dropdown-item" asp-controller="Jewelry" asp-route-category="@item.NormalizedName" asp-route-pageNo="1">
+                            @item.Name
+                        </a>
+                    </li>
+                }
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<!-- Список товаров по выбранной категории -->
+@await Html.PartialAsync("~/Views/Shared/Components/Jewelry/_ProductListPartial.cshtml", Model)
+</div>
+@section Scripts {
+    <script src="~/scripts/site.js"></script>
+}

@@ -1,0 +1,11 @@
+﻿@model WEB_253503_TSARUK.Domain.Models.Cart
+
+@{
+    var totalCount = Model?.Count ?? 0;
+    var totalPrice = Model?.TotalPrice ?? 0.0;
+}
+
+<a asp-controller="Cart" asp-action="ViewCart" class="navbar-text ms-auto">
+    @totalPrice.ToString() руб <i class="fa-solid fa-cart-shopping"></i> (@totalCount)
+</a>
+
